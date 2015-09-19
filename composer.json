@@ -1,0 +1,32 @@
+{
+    "name": "dortort/php-boilerplate",
+    "description": "A simple boilerplate for PHP composer package.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Francis Eytan Dortort",
+            "email": "francis@dortort.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "mockery/mockery": "~0.9",
+        "phpunit/phpunit": "~4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Acme\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "bin-dir": "bin/"
+    }
+}
