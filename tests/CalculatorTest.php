@@ -31,24 +31,24 @@ class CalculatorTest extends \PHPUnit_Framework_TestCase
 
     public function validSumsProvider()
     {
-        return array(
-            array(1, 1, 2),
-            array(1, 2, 3),
-            array(2, 3, 5),
-            array(3, 5, 8),
-            array(5, 8, 13),
-        );
+        return [
+            [1, 1, 2],
+            [1, 2, 3],
+            [2, 3, 5],
+            [3, 5, 8],
+            [5, 8, 13],
+        ];
     }
 
     public function validSubsProvider()
     {
-        return array(
-            array(1, 1, 0),
-            array(2, 1, 1),
-            array(3, 2, 1),
-            array(5, 3, 2),
-            array(8, 5, 3),
-        );
+        return [
+            [1, 1, 0],
+            [2, 1, 1],
+            [3, 2, 1],
+            [5, 3, 2],
+            [8, 5, 3],
+        ];
     }
 
     protected function tearDown()
