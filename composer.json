@@ -1,6 +1,6 @@
 {
     "name": "dortort/php-boilerplate",
-    "description": "A simple boilerplate for PHP composer package.",
+    "description": "A simple boilerplate for PHP composer packages.",
     "license": "MIT",
     "authors": [
         {
