@@ -20,5 +20,5 @@ See [CONTRIBUTING.md](https://github.com/dortort/php-boilerplate/blob/master/CON
 
 ### License
 
-PHP Boilerplate is released under the MIT License. See the bundled [LICENSE](https://github.com/emberjs/data/blob/master/LICENSE) file for
+PHP Boilerplate is released under the MIT License. See the bundled [LICENSE](https://github.com/dortort/php-boilerplate/blob/master/LICENSE) file for
 details.
