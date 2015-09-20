@@ -3,7 +3,7 @@
 ### Requirements
 
 - PHP >= 5.4
-- [Composer](http://getcomposer.org/).
+- [Composer](http://getcomposer.org/)
 
 ### Installation
 
@@ -12,7 +12,7 @@
 
 ### Contributing
 
-See [CONTRIBUTING.md](https://github.com/dortort/php-boilerplate/blob/master/CONTRIBUTING.md)
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ### Running Tests
 
@@ -20,5 +20,5 @@ See [CONTRIBUTING.md](https://github.com/dortort/php-boilerplate/blob/master/CON
 
 ### License
 
-PHP Boilerplate is released under the MIT License. See the bundled [LICENSE](https://github.com/dortort/php-boilerplate/blob/master/LICENSE) file for
+PHP Boilerplate is released under the MIT License. See the bundled [LICENSE](LICENSE) file for
 details.
