@@ -7,8 +7,7 @@
 
 ### Installation
 
-    $ composer create-project dortort/php-boilerplate path/ dev-master
-    $ make install
+    $ composer create-project dortort/php-boilerplate [directory] dev-master
 
 ### Contributing
 
