@@ -1,6 +1,6 @@
 
 install:
-	composer --no-interaction --prefer-source --dev install
+	composer --no-interaction --prefer-dist --no-dev install
 
 update:
 	composer update
